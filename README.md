@@ -42,7 +42,8 @@ cd spam-email-detection
 Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas
+pip install sklearn
 ```
 
 ## Usage
