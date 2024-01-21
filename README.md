@@ -56,7 +56,7 @@ pip install sklearn
 
 ## Dataset
 
-The project uses a labeled dataset for training and testing the Naive Bayes classifier. The dataset is available in the `data` directory. The dataset is divided into two subsets: one for training and one for testing.
+The project uses a labeled dataset for training and testing the Naive Bayes classifier. The dataset is available on Kaggle. 
 
 ## Algorithm
 
